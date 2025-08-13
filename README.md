@@ -36,7 +36,7 @@ Lista de ideias:
   - JVM - Java Virtual Machine (java.exe ou javaw.exe)
 
 - JDK - Java Development Kit
-  - [Adoptium JDK](https://adoptium.net/pt-BR)
+ 
   - Ambiente de DESENVOLVIMENTO (javac.exe) compilador
 
 - COMPILAÇÃO
@@ -45,10 +45,8 @@ Lista de ideias:
 - EXECUÇÃO
   3) Passar .class -> java.exe (JVM) -> ling máquina
 
-- VSCode
-  - [VSCode](https://code.visualstudio.com/)
-  - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
 
 ## Aula 12/08
 
-- Definir as histórias de usuario [EXEMPLOS](https://engsoftmoderna.info/cap3.html#hist%C3%B3rias-de-usu%C3%A1rios)
+- Definir as histórias de usuario 
