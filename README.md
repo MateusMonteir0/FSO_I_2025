@@ -16,11 +16,13 @@ Lista de ideias:
     - Agendamento de visitas
     - Emissão de crachás
 </s>
+
 <s>
 - Sistema de helpdesk
     - Registro de chamados
     - Base de conhecimento
  </s>
+ 
  <s>
 - Aplicativo de carona corporativa
     - Compartilhamento de rotas
