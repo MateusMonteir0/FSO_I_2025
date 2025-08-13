@@ -39,3 +39,11 @@ Nome da equipe
 ## Aula 12/08
 
 - Definir as histórias de usuario [EXEMPLOS](https://engsoftmoderna.info/cap3.html#hist%C3%B3rias-de-usu%C3%A1rios)
+
+Agendar Visitas: Marcar quem vem, quando e pra que, antes mesmo de a pessoa chegar.
+
+Registrar Entrada: Dar "check-in" no sistema quando o visitante chega e imprimir o crachá dele.
+
+Registrar Saída: Dar "check-out" no sistema quando o visitante vai embora.
+
+Ver Quem Tá Dentro/Histórico: Consultar quem está no local agora ou quem já veio antes
