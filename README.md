@@ -10,12 +10,12 @@ Lista de ideias:
     - Controle de estoque
     - Relatórios de movimentação
     - Alertas de estoque baixo
-
+<s>
 - Gestão de visitantes
     - Registro de entrada e saída
     - Agendamento de visitas
     - Emissão de crachás
-
+<s>
 - Sistema de helpdesk
     - Registro de chamados
     - Base de conhecimento
