@@ -2,33 +2,20 @@
 Nome da equipe 
 
 ## Propostas de projeto
-
+<s>
   
-Lista de ideias:
-
 - Gestão de inventário
     - Controle de estoque
     - Relatórios de movimentação
     - Alertas de estoque baixo
-<s>
+
+</s>
+
 - Gestão de visitantes
     - Registro de entrada e saída
     - Agendamento de visitas
     - Emissão de crachás
-</s>
--
-<s>
-- Sistema de helpdesk
-    - Registro de chamados
-    - Base de conhecimento
- </s>
- -
- <s>
-- Aplicativo de carona corporativa
-    - Compartilhamento de rotas
-    - Economia de combustível
-</s>
--
+
 ## Aula 05/08
 
 - JRE - Java Runtime Enviroment
@@ -36,7 +23,7 @@ Lista de ideias:
   - JVM - Java Virtual Machine (java.exe ou javaw.exe)
 
 - JDK - Java Development Kit
- 
+  - [Adoptium JDK](https://adoptium.net/pt-BR)
   - Ambiente de DESENVOLVIMENTO (javac.exe) compilador
 
 - COMPILAÇÃO
@@ -45,8 +32,10 @@ Lista de ideias:
 - EXECUÇÃO
   3) Passar .class -> java.exe (JVM) -> ling máquina
 
-
+- VSCode
+  - [VSCode](https://code.visualstudio.com/)
+  - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ## Aula 12/08
 
-- Definir as histórias de usuario 
+- Definir as histórias de usuario [EXEMPLOS](https://engsoftmoderna.info/cap3.html#hist%C3%B3rias-de-usu%C3%A1rios)
