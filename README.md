@@ -40,10 +40,12 @@ Nome da equipe
 
 - Definir as histórias de usuario [EXEMPLOS](https://engsoftmoderna.info/cap3.html#hist%C3%B3rias-de-usu%C3%A1rios)
 
-Agendar Visitas: Marcar quem vem, quando e pra que, antes mesmo de a pessoa chegar.
+Como usuario gostraria de agendar visitas: Marcar quem vem, quando e pra quem, antes mesmo de a pessoa chegar.
 
-Registrar Entrada: Dar "check-in" no sistema quando o visitante chega e imprimir o crachá dele.
+Como usuario Registrar Entrada: Dar "check-in" no sistema quando o visitante chega e imprimir o crachá dele.
 
-Registrar Saída: Dar "check-out" no sistema quando o visitante vai embora.
+Como usuario Registrar Saída: Dar "check-out" no sistema quando o visitante vai embora.
 
-Ver Quem Tá Dentro/Histórico: Consultar quem está no local agora ou quem já veio antes
+Como usuario Ver Quem Tá Dentro/Histórico: Consultar quem está no local agora ou quem já veio antes
+
+##Diagrama de entidades
