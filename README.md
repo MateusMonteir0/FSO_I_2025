@@ -48,4 +48,4 @@ Como usuario Registrar Saída: Dar "check-out" no sistema quando o visitante vai
 
 Como usuario Ver Quem Tá Dentro/Histórico: Consultar quem está no local agora ou quem já veio antes
 
-##Diagrama de entidades
+## Diagrama de entidades
